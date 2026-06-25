@@ -105,7 +105,7 @@ Decision Tree is a supervised learning algorithm that splits data into branches 
 * Pandas
 * Matplotlib
 * Scikit-learn
-* Jupyter Notebook
+* Colab
 
 ---
 
